@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Phase1_Branding/NeuroBrandAI_Logo.png" alt="NeuroBrandAI Logo" width="300"/>
+</p>
+
 # AI_Branding_PaulMbuvi
 AI Branding Project
 # 🚀 AI Branding Project – Paul Mbuvi
