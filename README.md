@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="Phase1_Branding/NeuroBrandAI_Logo.png" alt="NeuroBrandAI Logo" width="300"/>
-</p>
+# NeuroBrandAI
+
+![NeuroBrandAI Logo](Phase1_Branding/NeurobrandAI_logo.png)
+
+An AI-powered branding assistant that helps businesses create consistent, professional branding materials across phases.
 
 # AI_Branding_PaulMbuvi
 AI Branding Project
